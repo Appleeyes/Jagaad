@@ -1,0 +1,30 @@
+[
+    {
+        "registration_number": "REG4954",
+        "name": "John Doe",
+        "email": "Johnguru@gmail.com",
+        "classroom": "Frontend",
+        "grade": "B"
+    },
+    {
+        "registration_number": "REG1571",
+        "name": "Dorcas Samuel",
+        "email": "Samuel@gmail.com",
+        "classroom": "Backend",
+        "grade": "A"
+    },
+    {
+        "registration_number": "REG5569",
+        "name": "Apple's Workspace",
+        "email": "nou213094953@noun.edu.ng",
+        "classroom": "Analytics",
+        "grade": "A"
+    },
+    {
+        "registration_number": "REG8378",
+        "name": "MindsetDev Funnel",
+        "email": "Samueldorccc@gmail.com",
+        "classroom": "Fullstack",
+        "grade": "C"
+    }
+]
