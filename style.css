@@ -33,37 +33,3 @@ i{
 i:hover{
     font-size: 20px;
 }
-
-.alert-message.error {
-  width: 100%;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  margin-bottom: 10px;
-  background: rgb(255, 0, 0, 0.1);
-  text-align: center;
-}
-
-.alert-message.error p {
-  color: rgb(255, 0, 0);
-  font-weight: 600;
-  font-size: 20px;
-}
-
-.alert-message.success {
-  width: 100%;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  margin-bottom: 10px;
-  background: rgba(30, 93, 3, 0.1);
-  text-align: center;
-}
-
-.alert_message.lg{
-  text-align: center;
-}
-
-.alert-message.success p {
-  color: rgb(30, 93, 3);
-  font-weight: 600;
-  font-size: 20px;
-}
